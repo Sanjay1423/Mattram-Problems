@@ -1,0 +1,5 @@
+numbers = input()
+lst_number = list(numbers)
+lst_number.reverse()
+str_number = "".join(lst_number)
+print(int(str_number))

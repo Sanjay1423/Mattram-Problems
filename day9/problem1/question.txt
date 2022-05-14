@@ -1,0 +1,27 @@
+Problem on Digits
+
+Jennie is working in a bank and her daily task is to guide customers to fill various bank challans. A part of this, customers need to write the numbers in word format. Jennie decided to write a program to read the number and print the number digit by digit in word format. Help Jennie to complete this task.
+
+Input Format
+
+Number
+
+Constraints
+
+NA
+
+Output Format
+
+Given number in word format
+
+Sample Input 0
+659803 
+
+Sample Output 0
+six five nine eight zero three
+
+Sample Input 1
+12356
+
+sample Output 2
+one two three five six

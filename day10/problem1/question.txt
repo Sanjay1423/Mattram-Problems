@@ -1,0 +1,42 @@
+
+Find the Occurrences
+
+Bala was given a task by his professor to find all the occurrences of a given word in the given string Help Bala to write a 
+efficient program to complete his task.
+
+Note: Ignore the case
+
+Input Format
+
+String 1 in first line
+
+String 2 in second line
+
+Constraints
+
+NA
+
+Output Format
+
+Number of occurences
+
+Sample Input 0
+Hai Hello hai her him hai
+hai
+
+Sample Output 0
+3
+
+Sample Input 1
+An apple is red in colour
+red
+
+Sample Output 1
+1
+
+Sample Input 2
+Spring is beautiful but so is winter
+is
+
+Sample Output 2
+2

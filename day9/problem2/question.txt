@@ -1,0 +1,40 @@
+Pattern 183
+
+John is a kindergarten teacher and wants to teach his students the English alphabets in a entertaining way. So he gives them blocks which has alpahabets inscribed on it and asks them to arrange it in order based on the below fashion.
+
+A
+B A
+C B A 
+D C B A
+E D C B A
+Each student will be given a number and he has to use these blocks to create the pattern correctly.
+
+Input Format
+
+Single integer input
+
+Constraints
+
+NA
+
+Output Format
+
+Output is display as shown in sample test case
+
+Sample Input 0
+5
+
+Sample Output 0
+A 
+B A 
+C B A 
+D C B A 
+E D C B A
+Sample Input 1
+4
+
+Sample Output 1
+A 
+B A 
+C B A 
+D C B A

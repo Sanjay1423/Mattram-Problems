@@ -1,0 +1,39 @@
+Armstrong Number 82
+
+Write a program to identify if the number is Armstrong number or not.
+
+Armstrong number : Sum of the cubes of the digit of a number is equal to the number
+
+Input Format
+
+Refer the sample input and output
+
+Constraints
+
+NA
+
+Output Format
+
+Refer the sample input and output
+
+Sample Input 0
+
+153
+Sample Output 0
+
+Armstrong number
+Explanation 0
+
+(1 x 1 x 1) + (5 x 5 x 5) + (3 x 3 x 3) = 153.
+
+Therefore it is a Armstrong number.
+
+Sample Input 1
+
+1634
+Sample Output 1
+
+Armstrong number
+Explanation 1
+
+(1 x 1 x 1 x 1) + (6 x 6 x 6 x 6) + (3 x 3 x 3 x 3) + (4 x 4 x 4 x 4) = 1634.

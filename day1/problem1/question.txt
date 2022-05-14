@@ -1,0 +1,28 @@
+Remove Vowels 6
+
+Write a Program to Remove vowels from a string.
+
+Input Format
+
+Refer sample input and output
+
+Constraints
+
+NA
+
+Output Format
+
+Refer sample input and output
+
+Sample Input 0
+
+My name is Robbin
+Sample Output 0
+
+My nm s Rbbn
+Sample Input 1
+
+welcome
+Sample Output 1
+
+wlcm

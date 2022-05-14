@@ -1,0 +1,31 @@
+Maximum length-word
+
+Find the maximum length-word in a given sentence and return the maximum-length word. If multiple words are of same length 
+return the first occuring word of maximum-length
+
+Input Format
+Input contains a sentence whose maximum-length words needs to be determined.
+
+Constraints
+
+NA
+
+Output Format
+Output displays a word from the given sentence whose length is maximum.
+
+Sample Input 0
+Prabhu and Keerthi are good at cycling
+
+Sample Output 0
+Keerthi
+
+Sample Input 1
+A computer science portal for learn
+
+Sample Output 1
+computer
+
+Sample Input 2
+I am a good learner
+Sample Output 2
+learner
