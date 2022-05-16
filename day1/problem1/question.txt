@@ -3,8 +3,8 @@ Remove Vowels 6
 Write a Program to Remove vowels from a string.
 
 Input Format
-
 Refer sample input and output
+
 
 Constraints
 NA
