@@ -3,25 +3,21 @@ Perfect Number 46
 Write a program to identify if the number is Perfect number or not.
 
 Input Format
-
 Refer the sample input and output
 
 Constraints
-
 NA
 
 Output Format
-
 Refer the sample input and output
 
 Sample Input 0
-
 6
+
 Sample Output 0
-
 Perfect number
-Explanation 0
 
+Explanation 0
 The factors of a number are 1, 2, 3, 6 and the sum is 12. The double the number is 12.
 
 Therefore it is a perfect number.

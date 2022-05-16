@@ -3,34 +3,29 @@ Count Vowel 2
 In the Mini project 8th module is to find the number of vowel letters in a word(consider both uppercase and lowercase). Help Patrick to write a program to find the number of vowel letters in a word.
 
 Input Format
-
 Input consists of a string.
 
 Constraints
-
 NA
 
 Output Format
-
 Output consists of an integer saying the number of vowel in the given word.
-
 Refer the sample input and output
 
 Sample Input 0
-
 Alice
+
 Sample Output 0
-
 3
+
 Sample Input 1
-
 World
+
 Sample Output 1
-
 1
+
 Sample Input 2
-
 Student
-Sample Output 2
 
+Sample Output 2
 2

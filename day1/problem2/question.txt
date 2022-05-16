@@ -1,6 +1,7 @@
 Problem solving on Array
 
-Given an array A consists of N number of elements.If the sum of the element is "even" print the sum of the element.If the sum of the element is "odd" print the product of the element.
+Given an array A consists of N number of elements.If the sum of the element is "even" print the sum of the 
+element.If the sum of the element is "odd" print the product of the element.
 
 Input Format
 
@@ -9,24 +10,21 @@ The first line of input contains the number of elements N
 The second line of input represents the elements A1 , A2 , A3 . . . . . AN
 
 Constraints
-
 NA
 
 Output Format
-
 Print the desired result
 
 Sample Input 0
-
 5
 1 2 3 4 4
+
 Sample Output 0
-
 14
-Sample Input 1
 
+Sample Input 1
 4
 10 20 52 5
-Sample Output 1
 
+Sample Output 1
 52000

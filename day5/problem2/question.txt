@@ -3,26 +3,22 @@ Reverse a Number 34
 Write a program to reverse a given number.
 
 Input Format
-
 Refer the sample input and output
 
 Constraints
-
 NA
 
 Output Format
-
 Refer the sample input and output
 
 Sample Input 0
-
 987
+
 Sample Output 0
-
 789
+
 Sample Input 1
-
 1234
-Sample Output 1
 
+Sample Output 1
 4321

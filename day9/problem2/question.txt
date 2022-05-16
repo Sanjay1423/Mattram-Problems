@@ -10,15 +10,12 @@ E D C B A
 Each student will be given a number and he has to use these blocks to create the pattern correctly.
 
 Input Format
-
 Single integer input
 
 Constraints
-
 NA
 
 Output Format
-
 Output is display as shown in sample test case
 
 Sample Input 0
@@ -30,6 +27,7 @@ B A
 C B A 
 D C B A 
 E D C B A
+
 Sample Input 1
 4
 

@@ -7,17 +7,13 @@ efficient program to complete his task.
 Note: Ignore the case
 
 Input Format
-
 String 1 in first line
-
 String 2 in second line
 
 Constraints
-
 NA
 
 Output Format
-
 Number of occurences
 
 Sample Input 0

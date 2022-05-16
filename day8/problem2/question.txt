@@ -3,19 +3,14 @@ Replace a Substring 1
 Anika is given a task by her teacher to replace a substring in a string. Help anika to complete this task by providing the efficient algorithm for replacing a substring with another string.
 
 Input Format
-
 Read a string
-
 substring to be replaced
-
 string to be replaced with
 
 Constraints
-
 NA
 
 Output Format
-
 Print the required string. Refer the sample input and output.
 
 Sample Input 0

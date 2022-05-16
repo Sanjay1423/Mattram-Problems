@@ -4,26 +4,22 @@ Naveena and Narmada participate in a competition where they have to say palindro
 the game. Write a program to find whether the given number is a palindrome or not.
 
 Input Format
-
 Input consists of a number
 
 Constraints
-
 NA
 
 Output Format
-
 Output prints that a particular number is a palindrome or not.
 
 Sample Input 0
-
 2112
+
 Sample Output 0
-
 2112 is a palindrome.
+
 Sample Input 1
-
 1826
-Sample Output 1
 
+Sample Output 1
 1826 is not a palindrome.

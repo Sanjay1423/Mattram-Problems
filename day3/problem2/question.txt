@@ -8,23 +8,19 @@ number of adults and number of children. Assume that an adult weighs 75 kg and c
 is stable, else display Boat will sink
 
 Input Format
-
 Input consists of 3 integers. First input corresponds to the weight that the boat can handle. Second input corresponds to the number of adults. 
 Third input corresponds to the number of children.
 
 Constraints
-
 NA
 
 Output Format
-
 The output should be any one of the below-given strings. Boat is stable or Boat will sink
 
 Sample Input 0
-
 340
 2
 3
-Sample Output 0
 
+Sample Output 0
 Boat is stable

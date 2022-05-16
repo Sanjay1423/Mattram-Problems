@@ -27,5 +27,6 @@ computer
 
 Sample Input 2
 I am a good learner
+
 Sample Output 2
 learner
