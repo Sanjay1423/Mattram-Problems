@@ -1,0 +1,13 @@
+pair of socks 2
+
+Given a input socks short form name as r -> red sock, g -> green sock, b -> blue sock. If all the socks are in pair 
+return true or else return false.
+
+Input Format
+rgrbgb
+
+Constraints
+none
+
+Output Format
+true
