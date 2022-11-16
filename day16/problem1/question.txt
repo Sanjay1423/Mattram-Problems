@@ -1,0 +1,26 @@
+Print the maximum possible integer
+
+The program must accept an integer N as the input. The program must print the maximum possible Integer X which is less than N,
+but the sum of digits in X is greater than the sum of digits in N. If there is no such integer, the program must print 
+the integer N as it is.
+
+Input Format         
+35               
+                      
+Constraints
+none
+
+Output Format
+29
+
+Sample Input 0
+41
+
+Sample Output 0
+39
+
+Sample Input 1
+19
+
+Sample Output 1
+19

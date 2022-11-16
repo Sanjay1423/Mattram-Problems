@@ -1,4 +1,6 @@
-input = input()
+
+
+input = input()  # ! => google.com  OR youtube.com
 
 if "http://www." in input:
     print(input.replace('http://www.', ''))
