@@ -1,0 +1,55 @@
+Height Checker
+
+A school is trying to take an annual photo of all the students. The students are asked to stand in a single file line
+in non-decreasing order by height. Let this ordering be represented by the integer array expected where expected[i]
+is the expected height of the ith student in line.
+
+You are given an string with integer heights representing the current order that the students are standing in. 
+Each heights[i] is the height of the ith student in line (0-indexed).
+
+Return the number of indices where heights[i] != expected[i].
+
+Input Format
+The input format will be in string
+
+Constraints
+1 <= heights.length <= 100 1 <= heights[i] <= 100
+
+Output Format
+The output format will be in a integer
+
+Sample Input 0
+114213
+
+Sample Output 0
+3
+
+Explanation 0
+heights: [1,1,4,2,1,3] expected: [1,1,1,2,3,4] Indices 2, 4, and 5 do not match.
+
+Sample Input 1
+12345
+
+Sample Output 1
+0
+
+Explanation 1
+heights: [1,2,3,4,5] expected: [1,2,3,4,5] All indices match.
+
+Sample Input 2
+51234
+
+Sample Output 2
+5
+
+Sample Input 3
+6712534
+
+Sample Output 3
+6
+
+Sample Input 4
+12543
+
+Sample Output 4
+2
